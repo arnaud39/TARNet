@@ -1,0 +1,23 @@
+[build-system]
+requires = ["tensorflow", "pickle"]
+build-backend = "hatchling.build"
+
+[project]
+name = "TARNet"
+version = "1.0"
+authors = [
+  { name="Arnaud Petit", email="arnaud.petit39@gmail.com" },
+]
+description = "TARNet Model with tensorflow 2 API."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/arnaud39/TARNet"
+"Bug Tracker" = "https://github.com/arnaud39/TARNet/issues"
