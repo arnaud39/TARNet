@@ -45,7 +45,7 @@ pip install tarnet
 
 ## Dependencies
 
-vulpes requires:
+TARNet requires:
 
 - Python (>= 3.7)
 - TensorFlow
@@ -69,7 +69,6 @@ X, y, t = (
     df.icu_type.to_numpy(dtype="int32").reshape(-1, 1),
 )
 
-from tarNET import tarNET
 import tensorflow as tf
 
 normalizer_layer = tf.keras.layers.Normalization(axis=None)
