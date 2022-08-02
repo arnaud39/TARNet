@@ -1,7 +1,7 @@
 # TARNet
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![pypi version](https://img.shields.io/pypi/v/tarnet.svg)](https://pypi.python.org/pypi/vulpes)
+[![pypi version](https://img.shields.io/pypi/v/tarnet.svg)](https://pypi.python.org/pypi/tarnet)
 
 [![Downloads](https://static.pepy.tech/badge/tarnet)](https://pepy.tech/project/tarnet)
 
